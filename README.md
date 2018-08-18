@@ -51,15 +51,3 @@ Some text with an inline `code` snippet.
 ## Escaping
 
 \*literally\*
-
-## Embending HTML
-
-<button class="button-save large">
-Big Fat Button
-</button>
-
-# Advanced Markdown
-
-## Strike-throughs
-
-\~\~deleted words\~\~
