@@ -10,7 +10,7 @@
 
 ## Hyperlink
 
-[link to my profile](https://github.com/marycherkas)
+[link to my profile](My_profile.md)
 
 ## Images
 
