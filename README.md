@@ -1,6 +1,6 @@
-# Heading 1
-## Heading 2
-### Heading 3
+# Markdown Template
+
+## Text styles
 
 *italic text*
 
@@ -8,11 +8,21 @@
 
 ***bold-italic text***
 
+## Hyperlink
+
 [link to my profile](https://github.com/marycherkas)
+
+## Images
+
+### External link
 
 ![Puppy 1](http://cdn.akc.org/content/hero/puppy-boundaries_header.jpg)
 
+### Internal link
+
 ![Puppy 2](Media/puppy.jpg)
+
+## Lists
 
 * Milk
 * Bread
