@@ -32,3 +32,34 @@
 1. Tidy the kitchen
 2. Prepare ingredients
 3. Cook delicious things
+
+## Quotes
+
+> To be or not to be, that is the question.
+
+## Code Snippets
+
+Some text with an inline `code` snippet.
+
+## Reference Lists & Titles
+
+**The quick brown [fox][1], jumped over the lazy [dog][2].**
+
+[1]: https://en.wikipedia.org/wiki/Fox "Wikipedia: Fox"
+[2]: https://en.wikipedia.org/wiki/Dog "Wikipedia: Dog"
+
+## Escaping
+
+\*literally\*
+
+## Embending HTML
+
+<button class="button-save large">
+Big Fat Button
+</button>
+
+# Advanced Markdown
+
+## Strike-throughs
+
+\~\~deleted words\~\~
