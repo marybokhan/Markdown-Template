@@ -13,3 +13,12 @@
 ![Puppy 1](http://cdn.akc.org/content/hero/puppy-boundaries_header.jpg)
 
 ![Puppy 2](Media/puppy.jpg)
+
+* Milk
+* Bread
+  * Wholegrain
+* Butter
+
+1. Tidy the kitchen
+2. Prepare ingredients
+3. Cook delicious things
