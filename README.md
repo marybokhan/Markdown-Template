@@ -16,11 +16,15 @@
 
 ### External link
 
-![Puppy 1](http://cdn.akc.org/content/hero/puppy-boundaries_header.jpg)
+<p align="center">
+<img src="http://cdn.akc.org/content/hero/puppy-boundaries_header.jpg", width="600">
+</p>
 
 ### Internal link
 
-![Puppy 2](Media/puppy.jpg)
+<p align="left">
+<img src="Media/puppy.jpg", width="600">
+</p>
 
 ## Lists
 
